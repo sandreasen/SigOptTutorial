@@ -1,2 +1,2 @@
 # SigOptTutorial
-Start using SigOpt, check out my new tutorial!
+Start using SigOpt (https://sigopt.com/), check out my new tutorial!
